@@ -1,0 +1,1812 @@
+Purified Water,   Water
+  Beverages: Aisle 12
+Chips Ahoy! Cookies,   Famous Amos Cookies
+  Snack Foods: Aisle 21
+Energy Shot,   Coffee mocha
+  Coffee products: Aisle 8
+Nature Valley Granola Bar,   Quaker Oats Granola Bar
+  Cereal Products: Aisle 10
+Lay's Chips,   Doritos
+  Snack Foods: Aisle 21
+Toasted chip,   Doritos
+  Snack Foods: Aisle 21
+Potato chip,   Doritos
+  Snack Foods: Aisle 21
+Cheetos,   Lay's Chips
+  Snack Foods: Aisle 21
+M&Ms,   Skittles
+  Candy: Aisle 17
+Coca-Cola,   Sprite
+  Beverages: Aisle 12
+Baking Powder,   Sourdough
+  Cereal Products: Aisle 10
+Famous Amos Cookies,   Chips Ahoy! Cookies
+  Snack Foods: Aisle 21
+Skittles,   M&Ms
+  Candy: Aisle 17
+Angelica,   Celery stalks
+  Vegetables: Aisle 2
+Savoy cabbage,   Cabbage
+  Vegetables: Aisle 2
+Silver linden,   Small-leaf linden
+  Herbs and Spices: Aisle 1
+Kiwi,   Mamey sapote
+  Fruits: Aisle 3
+Allium (Onion), Garden onion
+Vegetables: Aisle 2
+Garden onion,   Welsh onion
+  Herbs and Spices: Aisle 1
+Leek,   Wild leek
+  Vegetables: Aisle 2
+Garlic,   Soft-necked garlic
+  Herbs and Spices: Aisle 1
+Chives,   Chinese chives
+  Herbs and Spices: Aisle 1
+Lemon verbena,   Common verbena
+  Herbs and Spices: Aisle 1
+Cashew nut,   Mixed nuts
+  Nuts: Aisle 4
+Pineapple,   Feijoa
+  Fruits: Aisle 3
+Dill,  Lovage
+ Herbs and Spices: Aisle 1
+Custard apple,   Sugar apple
+  Fruits: Aisle 3
+Wild celery,   Celery leaves
+  Herbs and Spices: Aisle 1
+Peanut,   Cooking oil
+  Baking Goods: Aisle 18
+Burdock,   Miso
+  Soy: Aisle 9
+Horseradish,   Wasabi
+  Herbs and Spices: Aisle 1
+Tarragon,   Epazote
+  Herbs and Spices: Aisle 1
+Mugwort,   Common thyme
+  Herbs and Spices: Aisle 1
+Asparagus, Garden onion
+Vegetables: Aisle 2
+Oat,   Rye
+  Cereal Products: Aisle 10
+Star fruit,   Horseradish tree
+  Vegetables: Aisle 2
+Brazil nut,   Horseradish tree
+  Vegetables: Aisle 2
+Common beet,   Red beetroot
+  Vegetables: Aisle 2
+Borage,   Parsley
+  Herbs and Spices: Aisle 1
+Chinese mustard,   Mustard
+  Baking Goods: Aisle 18
+Swede,  Turnip
+ Herbs and Spices: Aisle 1
+Common cabbage,  Cauliflower
+ Vegetables: Aisle 2
+Cauliflower,   Kale
+  Vegetables: Aisle 2
+Brussel sprouts,   White cabbage
+  Vegetables: Aisle 2
+Kohlrabi,  Swede
+ Vegetables: Aisle 2
+Broccoli,   Rapini
+  Vegetables: Aisle 2
+Chinese cabbage,   Pak choy
+  Vegetables: Aisle 2
+Turnip,  Swede
+ Vegetables: Aisle 2
+Pigeon pea,   Common pea
+  Pulses: Aisle 5
+Tea,   Greenthread tea
+  Teas: Aisle 6
+Capers,  Globe artichoke
+ Vegetables: Aisle 2
+Pepper (C. annuum),   Italian sweet red pepper
+  Vegetables: Aisle 2
+Papaya,   Mamey sapote
+  Fruits: Aisle 3
+Safflower,  Globe artichoke
+ Vegetables: Aisle 2
+Caraway,  Coriander
+ Herbs and Spices: Aisle 1
+Pecan nut,   Olive
+  Vegetables: Aisle 2
+Chestnut,   Chinese water chestnut
+  Vegetables: Aisle 2
+Roman camomile,   German camomile
+  Herbs and Spices: Aisle 1
+Chickpea,   Common bean
+  Pulses: Aisle 5
+Endive,   Celery stalks
+  Vegetables: Aisle 2
+Chicory,   Chicory roots
+  Vegetables: Aisle 2
+Chinese cinnamon,   Cinnamon
+  Herbs and Spices: Aisle 1
+Ceylon cinnamon,   Cinnamon
+  Herbs and Spices: Aisle 1
+Watermelon,   Horned melon
+  Gourds: Aisle 7
+Lime,   Persian lime
+  Fruits: Aisle 3
+Lemon,   Fruit juice
+  Beverages: Aisle 12
+Pummelo,  Sweet orange
+ Fruits: Aisle 3
+Mandarin orange (Clementine, Tangerine),  Sweet orange
+ Fruits: Aisle 3
+Sweet orange,  Pummelo
+ Fruits: Aisle 3
+Coffee,  Arabica coffee
+ Coffee products: Aisle 8
+Arabica coffee,  Coffee
+ Coffee products: Aisle 8
+Robusta coffee,  Arabica coffee
+ Coffee products: Aisle 8
+Coriander,  Caraway
+ Herbs and Spices: Aisle 1
+Common hazelnut,   Hazelnut
+  Nuts: Aisle 4
+Saffron,  Cardamom
+ Herbs and Spices: Aisle 1
+Muskmelon,   Wax gourd
+  Gourds: Aisle 7
+Cucumber,  Muskmelon
+ Gourds: Aisle 7
+Cucurbita (Gourd),   Calabash
+  Gourds: Aisle 7
+Cumin,  Caraway
+ Herbs and Spices: Aisle 1
+Turmeric,   Ginger
+  Herbs and Spices: Aisle 1
+Quince,   Pear
+  Fruits: Aisle 3
+Lemon grass,  Lemon
+ Fruits: Aisle 3
+Globe artichoke,   Cardoon
+  Vegetables: Aisle 2
+Wild carrot,   Carrot
+  Vegetables: Aisle 2
+Japanese persimmon,   Common persimmon
+  Fruits: Aisle 3
+Cardamom,   Ginger
+  Herbs and Spices: Aisle 1
+Black crowberry,   Blackcurrant
+  Fruits: Aisle 3
+Loquat,   Medlar
+  Fruits: Aisle 3
+Rocket salad (ssp.),   Rocket salad
+  Vegetables: Aisle 2
+Wax apple,  Custard apple
+ Fruits: Aisle 3
+Common buckwheat,  Tartary buckwheat
+ Cereal Products: Aisle 10
+Tartary buckwheat,  Common buckwheat
+ Cereal Products: Aisle 10
+Fig,   Prickly pear
+  Fruits: Aisle 3
+Fennel,   Anise
+  Herbs and Spices: Aisle 1
+Strawberry,   Fruit preserve
+  Fruits: Aisle 3
+Black huckleberry,   Evergreen huckleberry
+  Fruits: Aisle 3
+Soy bean,   Soy milk
+  Soy: Aisle 9
+Sunflower,  Safflower
+ Herbs and Spices: Aisle 1
+Sea-buckthornberry,  Common cabbage
+ Vegetables: Aisle 2
+Barley,   Wheat
+  Cereal Products: Aisle 10
+Hyssop,   Common thyme
+  Herbs and Spices: Aisle 1
+Star anise,   Anise
+  Herbs and Spices: Aisle 1
+Swamp cabbage,   Malabar spinach
+  Vegetables: Aisle 2
+Sweet potato,   Potato
+  Vegetables: Aisle 2
+Black walnut,   Walnut
+  Nuts: Aisle 4
+Common walnut,   Walnut
+  Nuts: Aisle 4
+Lettuce,   Romaine lettuce
+  Vegetables: Aisle 2
+Grass pea,   Bean
+  Pulses: Aisle 5
+Sweet bay,   Avocado
+  Vegetables: Aisle 2
+Lentils,   Pulses
+  Pulses: Aisle 5
+Garden cress,   Watercress
+  Herbs and Spices: Aisle 1
+Lovage,  Wild celery
+ Herbs and Spices: Aisle 1
+Flaxseed,   Cottonseed
+  Herbs and Spices: Aisle 1
+Mexican oregano,   Pot marjoram
+  Herbs and Spices: Aisle 1
+Lichee,   Longan
+  Fruits: Aisle 3
+Lupine,   White lupine
+  Pulses: Aisle 5
+Apple,   Malus (Crab apple)
+  Fruits: Aisle 3
+Mango,   Prunus (Cherry, Plum)
+  Fruits: Aisle 3
+German camomile,  Roman camomile
+ Herbs and Spices: Aisle 1
+Lemon balm,   Orange mint
+  Herbs and Spices: Aisle 1
+Mentha (Mint),   Orange mint
+  Herbs and Spices: Aisle 1
+Orange mint,   Cornmint
+  Herbs and Spices: Aisle 1
+Cornmint,   Orange mint
+  Herbs and Spices: Aisle 1
+Spearmint,   Peppermint
+  Herbs and Spices: Aisle 1
+Peppermint,   Spearmint
+  Herbs and Spices: Aisle 1
+Medlar,  Loquat
+ Fruits: Aisle 3
+Bitter gourd,   Wax gourd
+  Gourds: Aisle 7
+Mulberry,   Black mulberry
+  Fruits: Aisle 3
+Black mulberry,   Mulberry
+  Fruits: Aisle 3
+Nutmeg,   Allspice
+  Herbs and Spices: Aisle 1
+Sweet basil,   Rapini
+  Vegetables: Aisle 2
+Evening primrose,   Greenthread tea
+  Teas: Aisle 6
+Olive,   Soursop
+  Fruits: Aisle 3
+Sweet marjoram,   Pot marjoram
+  Herbs and Spices: Aisle 1
+Pot marjoram,   Common oregano
+  Herbs and Spices: Aisle 1
+Common oregano,   Pot marjoram
+  Herbs and Spices: Aisle 1
+Rice,   Rice cake
+  Ready-Made Dishes: Aisle 20
+Millet,  Grass pea
+ Pulses: Aisle 5
+Poppy,   Opium poppy
+  Herbs and Spices: Aisle 1
+Passion fruit,   Fruit salad
+  Fruits: Aisle 3
+Parsnip,   Agave
+  Vegetables: Aisle 2
+Avocado,   Asian pear
+  Fruits: Aisle 3
+Parsley,   Chervil
+  Herbs and Spices: Aisle 1
+Scarlet bean,   Common bean
+  Pulses: Aisle 5
+Lima bean,   Common bean
+  Pulses: Aisle 5
+Common bean,   Lima bean
+  Pulses: Aisle 5
+Date,   Jujube
+  Fruits: Aisle 3
+Black chokeberry,   Greenthread tea
+  Teas: Aisle 6
+Anise,  Star anise
+ Herbs and Spices: Aisle 1
+Pine nut,   Colorado pinyon
+  Nuts: Aisle 4
+Pepper (Spice),   Allspice
+  Herbs and Spices: Aisle 1
+Pistachio,   Nuts
+  Nuts: Aisle 4
+Common pea,  Pigeon pea
+ Pulses: Aisle 5
+Purslane,   Rose hip
+  Herbs and Spices: Aisle 1
+Prunus (Cherry, Plum),   Nectarine
+  Fruits: Aisle 3
+Apricot,   European plum
+  Fruits: Aisle 3
+Sweet cherry,   Nanking cherry
+  Fruits: Aisle 3
+Sour cherry,   Nanking cherry
+  Fruits: Aisle 3
+European plum,   Apricot
+  Fruits: Aisle 3
+Almond,   Peach
+  Fruits: Aisle 3
+Peach,   Almond
+  Nuts: Aisle 4
+Guava,   Strawberry guava
+  Fruits: Aisle 3
+Pomegranate,   Elderberry
+  Fruits: Aisle 3
+Pear,   Asian pear
+  Fruits: Aisle 3
+Radish,   Radish (var.)
+  Vegetables: Aisle 2
+Garden rhubarb,   Soursop
+  Fruits: Aisle 3
+Blackcurrant,   Buffalo currant
+  Fruits: Aisle 3
+Redcurrant,   Buffalo currant
+  Fruits: Aisle 3
+Gooseberry,   Jostaberry
+  Fruits: Aisle 3
+Watercress,  Garden cress
+ Vegetables: Aisle 2
+Rosemary,   Common sage
+  Herbs and Spices: Aisle 1
+Rubus (Blackberry, Raspberry),   Red raspberry
+  Fruits: Aisle 3
+Cloudberry,   Loganberry
+  Fruits: Aisle 3
+Red raspberry,   Black raspberry
+  Fruits: Aisle 3
+Black raspberry,   Red raspberry
+  Fruits: Aisle 3
+Sorrel,   Sourdock
+  Herbs and Spices: Aisle 1
+Common sage,   Pineappple sage
+  Herbs and Spices: Aisle 1
+Black elderberry,   Elderberry
+  Fruits: Aisle 3
+Summer savory,   Winter savory
+  Herbs and Spices: Aisle 1
+Winter savory,   Summer savory
+  Herbs and Spices: Aisle 1
+Rye,   Rye bread
+  Cereal Products: Aisle 10
+Sesame,   Horchata
+  Beverages: Aisle 12
+Garden tomato,   Cherry tomato
+  Vegetables: Aisle 2
+Cherry tomato,   Garden tomato
+  Vegetables: Aisle 2
+Garden tomato (var.), Savoy cabbage
+Vegetables: Aisle 2
+Eggplant,  Sweet potato
+ Vegetables: Aisle 2
+Potato,   Baked potato
+  Ready-Made Dishes: Aisle 20
+Rowanberry,   Pear
+  Fruits: Aisle 3
+Sorghum,   Rye
+  Cereal Products: Aisle 10
+Spinach,   Malabar spinach
+  Vegetables: Aisle 2
+Cloves,   Java plum
+  Fruits: Aisle 3
+Tamarind,   Carob
+  Vegetables: Aisle 2
+Dandelion,   Steller sea lion
+  Seafood: Aisle 13
+Cocoa bean,   Cocoa powder
+  Cocoa Products: Aisle 11
+Common thyme,   Lemon thyme
+  Herbs and Spices: Aisle 1
+Linden,   Small-leaf linden
+  Herbs and Spices: Aisle 1
+Small-leaf linden, Silver linden
+Herbs and Spices: Aisle 1
+Fenugreek,  Dill
+ Herbs and Spices: Aisle 1
+Common wheat,   Spelt
+  Cereal Products: Aisle 10
+Vaccinium (Blueberry, Cranberry, Huckleberry),   Bilberry
+  Fruits: Aisle 3
+Lowbush blueberry,   Canada blueberry
+  Fruits: Aisle 3
+Sparkleberry,   Elliott's blueberry
+  Fruits: Aisle 3
+Highbush blueberry,   Canada blueberry
+  Fruits: Aisle 3
+American cranberry,   Squashberry
+  Fruits: Aisle 3
+Bilberry,   Bog bilberry
+  Fruits: Aisle 3
+Lingonberry,   Vaccinium (Blueberry, Cranberry, Huckleberry)
+  Fruits: Aisle 3
+Vanilla,   Tortilla
+  Cereal Products: Aisle 10
+Common verbena, Lemon verbena
+Herbs and Spices: Aisle 1
+Broad bean,   Common bean
+  Pulses: Aisle 5
+Adzuki bean,   Black-eyed pea
+  Pulses: Aisle 5
+Gram bean,   Common bean
+  Pulses: Aisle 5
+Mung bean,   Gram bean
+  Pulses: Aisle 5
+Climbing bean,   Rice
+  Cereal Products: Aisle 10
+Cowpea,   Black-eyed pea
+  Pulses: Aisle 5
+Muscadine grape,   Elliott's blueberry
+  Fruits: Aisle 3
+Common grape,   Fox grape
+  Fruits: Aisle 3
+Corn,   Wheat
+  Cereal Products: Aisle 10
+Ginger,  Turmeric
+ Herbs and Spices: Aisle 1
+Arctic blackberry,   Black raspberry
+  Fruits: Aisle 3
+Banana,   French plantain
+  Fruits: Aisle 3
+Bayberry,   Yellow wax bean
+  Pulses: Aisle 5
+Elliott's blueberry,   Sparkleberry
+  Fruits: Aisle 3
+Canada blueberry,   Highbush blueberry
+  Fruits: Aisle 3
+Bog bilberry,   Bilberry
+  Fruits: Aisle 3
+Buffalo currant,   Redcurrant
+  Fruits: Aisle 3
+Celeriac,  Wild celery
+ Herbs and Spices: Aisle 1
+Celery stalks,   Celery leaves
+  Herbs and Spices: Aisle 1
+Chinese chives,   Soft-necked garlic
+  Herbs and Spices: Aisle 1
+European cranberry,   American cranberry
+  Fruits: Aisle 3
+Deerberry,   Sparkleberry
+  Fruits: Aisle 3
+Ginseng,   Energy drink
+  Beverages: Aisle 12
+Cascade huckleberry,   Oval-leaf huckleberry
+  Fruits: Aisle 3
+Oval-leaf huckleberry,   Alaska blueberry
+  Fruits: Aisle 3
+Evergreen huckleberry,   Highbush blueberry
+  Fruits: Aisle 3
+Red huckleberry,   Sparkleberry
+  Fruits: Aisle 3
+Longan,   Lichee
+  Fruits: Aisle 3
+Macadamia nut (M. tetraphylla),   Macadamia nut
+  Nuts: Aisle 4
+Garden onion (var.), Savoy cabbage
+Vegetables: Aisle 2
+Summer grape,   Common grape
+  Fruits: Aisle 3
+Fox grape,   Common grape
+  Fruits: Aisle 3
+Nectarine,   Prunus (Cherry, Plum)
+  Fruits: Aisle 3
+Peach (var.), Savoy cabbage
+Vegetables: Aisle 2
+Pepper (C. baccatum),  Pepper (C. annuum)
+ Vegetables: Aisle 2
+Pepper (C. chinense),  Pepper (C. annuum)
+ Vegetables: Aisle 2
+Pepper (Capsicum),  Pepper (C. annuum)
+ Vegetables: Aisle 2
+Rambutan,   Jackfruit
+  Fruits: Aisle 3
+Red rice,   Rice
+  Cereal Products: Aisle 10
+Annual wild rice,   Wild rice
+  Cereal Products: Aisle 10
+Swiss chard,  Common beet
+ Vegetables: Aisle 2
+Lemon thyme,   Common thyme
+  Herbs and Spices: Aisle 1
+Tronchuda cabbage, Savoy cabbage
+Vegetables: Aisle 2
+Japanese walnut,   Butternut
+  Nuts: Aisle 4
+Welsh onion, Garden onion
+Vegetables: Aisle 2
+Hard wheat,   Other bread
+  Cereal Products: Aisle 10
+Shallot, Garden onion
+Vegetables: Aisle 2
+Rocket salad,  Rocket salad (ssp.)
+ Vegetables: Aisle 2
+Carrot,  Wild carrot
+ Vegetables: Aisle 2
+Triticale,   Wheat
+  Cereal Products: Aisle 10
+Black cabbage,   Kale
+  Vegetables: Aisle 2
+Half-highbush blueberry,   Canada blueberry
+  Fruits: Aisle 3
+Celery leaves,  Wild celery
+ Herbs and Spices: Aisle 1
+Chicory leaves, Savoy cabbage
+Vegetables: Aisle 2
+Komatsuna,   Mustard spinach
+  Vegetables: Aisle 2
+Pak choy,   Pak choy
+  Vegetables: Aisle 2
+Napa cabbage,  Chinese cabbage
+ Vegetables: Aisle 2
+Chicory roots,   Coffee substitute
+  Baking Goods: Aisle 18
+Grapefruit/Pummelo hybrid, Savoy cabbage
+Vegetables: Aisle 2
+Grapefruit,  Sweet orange
+ Fruits: Aisle 3
+Jostaberry,   Gooseberry
+  Fruits: Aisle 3
+Kai-lan,   Chinese broccoli
+  Vegetables: Aisle 2
+Italian oregano,   Pot marjoram
+  Herbs and Spices: Aisle 1
+Oxheart cabbage, Savoy cabbage
+Vegetables: Aisle 2
+Daikon radish,   Radish (var.)
+  Vegetables: Aisle 2
+Black radish,   Evergreen huckleberry
+  Fruits: Aisle 3
+Radish (var.),   Radish
+  Vegetables: Aisle 2
+Red beetroot,  Common beet
+ Vegetables: Aisle 2
+Sweet rowanberry, Savoy cabbage
+Vegetables: Aisle 2
+Pineappple sage,   Common sage
+  Herbs and Spices: Aisle 1
+Skunk currant,   Redcurrant
+  Fruits: Aisle 3
+Beer,   Whisky
+  Beverages: Aisle 12
+Other bread,   Common wheat
+  Cereal Products: Aisle 10
+Breakfast cereal,   Breakfast sandwich
+  Ready-Made Dishes: Aisle 20
+Other soy product, Savoy cabbage
+Vegetables: Aisle 2
+Other cereal product, Savoy cabbage
+Vegetables: Aisle 2
+Pasta,   Ravioli
+  Ready-Made Dishes: Aisle 20
+Biscuit,   Hamburger
+  Ready-Made Dishes: Aisle 20
+Sourdough,   Baking Powder
+  Baking Goods: Aisle 18
+Spirit, Savoy cabbage
+Vegetables: Aisle 2
+Fortified wine,   Port wine
+  Beverages: Aisle 12
+Other alcoholic beverage, Savoy cabbage
+Vegetables: Aisle 2
+Abalone,   Conch
+  Seafood: Aisle 13
+Abiyuch,   Asian pear
+  Fruits: Aisle 3
+Acerola,   Nanking cherry
+  Fruits: Aisle 3
+Acorn,   Hickory nut
+  Nuts: Aisle 4
+Winter squash,   Sunburst squash (pattypan squash)
+  Gourds: Aisle 7
+Agar,   Pectin
+  Baking Goods: Aisle 18
+Red king crab,   Snow crab
+  Seafood: Aisle 13
+Alfalfa,  Grass pea
+ Pulses: Aisle 5
+Allspice,   Pepper (Spice)
+  Herbs and Spices: Aisle 1
+Amaranth,   Green vegetables
+  Vegetables: Aisle 2
+Arrowhead,   Potato bread
+  Cereal Products: Aisle 10
+Arrowroot,   Tapioca pearl
+  Baking Goods: Aisle 18
+Asian pear,   Pear
+  Fruits: Aisle 3
+Atlantic herring,   Pacific herring
+  Seafood: Aisle 13
+Atlantic mackerel,   Spanish mackerel
+  Seafood: Aisle 13
+Painted comber,   Norway haddock
+  Seafood: Aisle 13
+Atlantic pollock,   Pollock
+  Seafood: Aisle 13
+Atlantic wolffish,   Catfish
+  Seafood: Aisle 13
+Bamboo shoots,   Nopal
+  Vegetables: Aisle 2
+Striped bass,   Atlantic menhaden
+  Seafood: Aisle 13
+Beaver,   Squirrel
+  Meats: Aisle 14
+Beech nut,   Japanese chestnut
+  Nuts: Aisle 4
+Beluga whale,   Bowhead whale
+  Seafood: Aisle 13
+Bison,   Beefalo
+  Meats: Aisle 14
+Black bear,   Brown bear
+  Meats: Aisle 14
+Alaska blackfish,   Alaska pollock
+  Seafood: Aisle 13
+Blue crab,   Snow crab
+  Seafood: Aisle 13
+Blue mussel,   Marine mussel
+  Seafood: Aisle 13
+Northern bluefin tuna,   Yellowfin tuna
+  Seafood: Aisle 13
+Bluefish,   King mackerel
+  Seafood: Aisle 13
+Wild boar,   Domestic pig (Piglet, Pork)
+  Meats: Aisle 14
+Bowhead whale,   Beluga whale
+  Seafood: Aisle 13
+Breadfruit,   Taro
+  Vegetables: Aisle 2
+Breadnut tree seed,   Chia
+  Herbs and Spices: Aisle 1
+Rapini,  Broccoli
+ Vegetables: Aisle 2
+Brown bear,   Black bear
+  Meats: Aisle 14
+Buffalo,   Water
+  Beverages: Aisle 12
+Burbot,   Common ling
+  Seafood: Aisle 13
+Giant butterbur,   Garden rhubarb
+  Vegetables: Aisle 2
+American butterfish,   Skipjack tuna
+  Seafood: Aisle 13
+Butternut,   Japanese walnut
+  Nuts: Aisle 4
+Butternut squash,   Sunburst squash (pattypan squash)
+  Gourds: Aisle 7
+Calabash,  Cucurbita (Gourd)
+ Gourds: Aisle 7
+Cardoon,  Globe artichoke
+ Vegetables: Aisle 2
+Caribou,   Akutaq
+  Candy: Aisle 17
+Natal plum,   Hyacinth bean
+  Pulses: Aisle 5
+Carob,   Horseradish tree
+  Vegetables: Aisle 2
+Common carp,   Wakame
+  Seafood: Aisle 13
+Cassava,   Tapioca pearl
+  Baking Goods: Aisle 18
+Channel catfish,   Catfish
+  Seafood: Aisle 13
+Chayote,   Sunburst squash (pattypan squash)
+  Gourds: Aisle 7
+Cherimoya,  Custard apple
+ Fruits: Aisle 3
+Chervil,   Parsley
+  Herbs and Spices: Aisle 1
+Chia,   Breadnut tree seed
+  Herbs and Spices: Aisle 1
+Chicken (Cock, Hen, Rooster),   Squab
+  Meats: Aisle 14
+Chinese broccoli,   Kai-lan
+  Vegetables: Aisle 2
+Chinese chestnut,   Japanese chestnut
+  Nuts: Aisle 4
+Chinese water chestnut,  Chestnut
+ Nuts: Aisle 4
+Garland chrysanthemum,   Green vegetables
+  Vegetables: Aisle 2
+Cisco,   Whitefish
+  Seafood: Aisle 13
+Nuttall cockle,   Blue mussel
+  Seafood: Aisle 13
+Coconut,   Heart of palm
+  Vegetables: Aisle 2
+Pacific cod,   Gadus (Common cod)
+  Seafood: Aisle 13
+Atlantic cod,   Pacific cod
+  Seafood: Aisle 13
+Common octopus,   North Pacific giant octopus
+  Seafood: Aisle 13
+Corn salad,   Salad dressing
+  Baking Goods: Aisle 18
+Cottonseed,   Cooking oil
+  Baking Goods: Aisle 18
+Catjang pea,   Cowpea
+  Pulses: Aisle 5
+Malus (Crab apple),   Apple
+  Fruits: Aisle 3
+Squashberry,   American cranberry
+  Fruits: Aisle 3
+Atlantic croaker,   Freshwater drum
+  Seafood: Aisle 13
+Dolphin fish,   Florida pompano
+  Seafood: Aisle 13
+Freshwater drum,   Atlantic croaker
+  Seafood: Aisle 13
+Mallard duck,   Arrowhead
+  Vegetables: Aisle 2
+Dungeness crab,   Snow crab
+  Seafood: Aisle 13
+Durian,   Mexican groundcherry
+  Vegetables: Aisle 2
+Eastern oyster,   Pacific oyster
+  Seafood: Aisle 13
+Freshwater eel,   Anguilliformes (Eel)
+  Seafood: Aisle 13
+Elderberry,   Black elderberry
+  Fruits: Aisle 3
+Elk,   Deer
+  Meats: Aisle 14
+Emu,   Ostrich
+  Meats: Aisle 14
+Oregon yampah,   Mountain yam
+  Vegetables: Aisle 2
+European anchovy,   Anchovy
+  Seafood: Aisle 13
+European chestnut,   Japanese chestnut
+  Nuts: Aisle 4
+Turbot,   Painted comber
+  Seafood: Aisle 13
+Fireweed,   Lowbush blueberry
+  Fruits: Aisle 3
+Florida pompano,   King mackerel
+  Seafood: Aisle 13
+Ginkgo nuts,   Horseradish tree
+  Vegetables: Aisle 2
+Greylag goose,   Great horned owl
+  Meats: Aisle 14
+Grape,   Fox grape
+  Fruits: Aisle 3
+Greenland halibut/turbot,   Atlantic halibut
+  Seafood: Aisle 13
+Groundcherry,   Mexican groundcherry
+  Vegetables: Aisle 2
+Grouper,   Painted comber
+  Seafood: Aisle 13
+Guinea hen,   Anatidae (Duck, Goose, Swan)
+  Meats: Aisle 14
+Haddock,   Norway haddock
+  Seafood: Aisle 13
+Hippoglossus (Common halibut),   Pleuronectidae (Dab, Halibut, Plaice)
+  Seafood: Aisle 13
+Hazelnut,  Common hazelnut
+ Nuts: Aisle 4
+Hickory nut,   Butternut
+  Nuts: Aisle 4
+Horse,   Domestic pig (Piglet, Pork)
+  Meats: Aisle 14
+Horseradish tree,   Carob
+  Vegetables: Aisle 2
+Alaska blueberry,   Alaska blueberry
+  Fruits: Aisle 3
+Hyacinth bean,   Common bean
+  Pulses: Aisle 5
+Irish moss,   Red algae
+  Seafood: Aisle 13
+Pacific jack mackerel,   Spanish mackerel
+  Seafood: Aisle 13
+Jackfruit,   Java plum
+  Fruits: Aisle 3
+Japanese chestnut,   Chinese chestnut
+  Nuts: Aisle 4
+Java plum,   Jackfruit
+  Fruits: Aisle 3
+Jerusalem artichoke,   Sparkleberry
+  Fruits: Aisle 3
+Jujube,   Date
+  Fruits: Aisle 3
+Jute,  Lovage
+ Herbs and Spices: Aisle 1
+Kale,  Cauliflower
+ Vegetables: Aisle 2
+Kelp,   Red algae
+  Seafood: Aisle 13
+King mackerel,   Spanish mackerel
+  Seafood: Aisle 13
+Kumquat,  Sweet orange
+ Fruits: Aisle 3
+Lambsquarters,   Epazote
+  Herbs and Spices: Aisle 1
+Leather chiton,   Black radish
+  Vegetables: Aisle 2
+Wild leek, Leek
+Vegetables: Aisle 2
+Common ling,   Lingcod
+  Seafood: Aisle 13
+Lingcod,   Common ling
+  Seafood: Aisle 13
+American lobster,   Clawed lobster
+  Seafood: Aisle 13
+Loganberry,   Black raspberry
+  Fruits: Aisle 3
+Lotus,   Sacred lotus
+  Vegetables: Aisle 2
+Sacred lotus,   Lotus
+  Herbs and Spices: Aisle 1
+White lupine,   Lupine
+  Pulses: Aisle 5
+Malabar spinach,  Swamp cabbage
+ Vegetables: Aisle 2
+Mammee apple,   Sugar apple
+  Fruits: Aisle 3
+Purple mangosteen,   Sugar apple
+  Fruits: Aisle 3
+Alpine sweetvetch,   Tea leaf willow
+  Herbs and Spices: Aisle 1
+Milkfish,   Grouper
+  Seafood: Aisle 13
+Monkfish,   Northern pike
+  Seafood: Aisle 13
+Moose,   Deer
+  Meats: Aisle 14
+Moth bean,   Green bean
+  Pulses: Aisle 5
+Mountain yam,   Yam
+  Vegetables: Aisle 2
+Striped mullet,   White sucker
+  Seafood: Aisle 13
+Muskrat,   Squirrel
+  Meats: Aisle 14
+White mustard,   Mustard
+  Baking Goods: Aisle 18
+Mustard spinach,   Komatsuna
+  Vegetables: Aisle 2
+New Zealand spinach,   Malabar spinach
+  Vegetables: Aisle 2
+Nopal,   Prickly pear
+  Fruits: Aisle 3
+Ocean pout,   Atlantic salmon
+  Seafood: Aisle 13
+North Pacific giant octopus,   Common octopus
+  Seafood: Aisle 13
+Ohelo berry,   Vaccinium (Blueberry, Cranberry, Huckleberry)
+  Fruits: Aisle 3
+Okra,   Yardlong bean
+  Pulses: Aisle 5
+Tunicate,   Ascidians
+  Seafood: Aisle 13
+Opossum,   Catfish
+  Seafood: Aisle 13
+Ostrich,   Ostrich fern
+  Vegetables: Aisle 2
+Spotted seal,   Ringed seal
+  Seafood: Aisle 13
+Pacific herring,   Atlantic herring
+  Seafood: Aisle 13
+Pacific oyster,   Eastern oyster
+  Seafood: Aisle 13
+Pacific rockfish,   Norway haddock
+  Seafood: Aisle 13
+Velvet duck,   Mallard duck
+  Meats: Aisle 14
+Pepper (C. frutescens),   Italian sweet red pepper
+  Vegetables: Aisle 2
+Common persimmon,   Persimmon
+  Fruits: Aisle 3
+Pheasant,   Turkey
+  Meats: Aisle 14
+Northern pike,   Greylag goose
+  Meats: Aisle 14
+Pili nut,   Mammee apple
+  Fruits: Aisle 3
+Colorado pinyon,   Pine nut
+  Nuts: Aisle 4
+Pitanga,   Nanking cherry
+  Fruits: Aisle 3
+Plains prickly pear,   Prickly pear
+  Fruits: Aisle 3
+French plantain,   Banana
+  Fruits: Aisle 3
+American pokeweed,   Elderberry
+  Fruits: Aisle 3
+Polar bear,   Brown bear
+  Meats: Aisle 14
+Opium poppy,   Poppy
+  Herbs and Spices: Aisle 1
+Prairie turnip,  Turnip
+ Herbs and Spices: Aisle 1
+Prickly pear,   Nopal
+  Vegetables: Aisle 2
+Quinoa,   Rye
+  Cereal Products: Aisle 10
+European rabbit,   Rabbit
+  Meats: Aisle 14
+Raccoon,   Greylag goose
+  Meats: Aisle 14
+Rainbow smelt,   Smelt
+  Seafood: Aisle 13
+Rainbow trout,   Pacific salmon
+  Seafood: Aisle 13
+Malabar plum,   Guava
+  Fruits: Aisle 3
+Rose hip,   Salmonberry
+  Fruits: Aisle 3
+Roselle,   Hibiscus tea
+  Teas: Aisle 6
+Orange roughy,  Sweet orange
+ Fruits: Aisle 3
+Sablefish,   Gadus (Common cod)
+  Seafood: Aisle 13
+Pink salmon,   Atlantic salmon
+  Seafood: Aisle 13
+Chum salmon,   Pink salmon
+  Seafood: Aisle 13
+Coho salmon,   Pink salmon
+  Seafood: Aisle 13
+Sockeye salmon,   Atlantic salmon
+  Seafood: Aisle 13
+Chinook salmon,   Atlantic salmon
+  Seafood: Aisle 13
+Atlantic salmon,   Chinook salmon
+  Seafood: Aisle 13
+Salmonberry,   Red raspberry
+  Fruits: Aisle 3
+Common salsify,   Black salsify
+  Vegetables: Aisle 2
+Sapodilla,   Chia
+  Herbs and Spices: Aisle 1
+Mamey sapote,  Custard apple
+ Fruits: Aisle 3
+Spanish mackerel,   Atlantic mackerel
+  Seafood: Aisle 13
+Pacific sardine,   Blue whiting
+  Seafood: Aisle 13
+Scallop,   Bivalvia (Clam, Mussel, Oyster)
+  Seafood: Aisle 13
+Scup,   Atlantic cod
+  Seafood: Aisle 13
+Sea cucumber,   Turbot
+  Seafood: Aisle 13
+Steller sea lion,   Dandelion
+  Herbs and Spices: Aisle 1
+Bearded seal,   Ringed seal
+  Seafood: Aisle 13
+Ringed seal,   Bearded seal
+  Seafood: Aisle 13
+Seatrout, Savoy cabbage
+Vegetables: Aisle 2
+Sesbania flower,   Yardlong bean
+  Pulses: Aisle 5
+American shad,   Bluefish
+  Seafood: Aisle 13
+Shark,   Fishes
+  Seafood: Aisle 13
+Sheefish,   Cisco
+  Seafood: Aisle 13
+Sheep (Mutton, Lamb),   Domestic goat
+  Meats: Aisle 14
+Sheepshead,   Bivalvia (Clam, Mussel, Oyster)
+  Seafood: Aisle 13
+Hedge mustard,  Chinese mustard
+ Vegetables: Aisle 2
+Skipjack tuna,   Albacore tuna
+  Seafood: Aisle 13
+Snapper,   Fishes
+  Seafood: Aisle 13
+Soursop,   Garden rhubarb
+  Vegetables: Aisle 2
+Spelt,   Common wheat
+  Cereal Products: Aisle 10
+Spirulina,   Red algae
+  Seafood: Aisle 13
+Squab,   Columbidae (Dove, Pigeon)
+  Meats: Aisle 14
+Squirrel,   Arctic ground squirrel
+  Meats: Aisle 14
+Strawberry guava,   Guava
+  Fruits: Aisle 3
+Greater sturgeon,   Sturgeon
+  Seafood: Aisle 13
+White sucker,   Lumpsucker
+  Seafood: Aisle 13
+Sugar apple,  Custard apple
+ Fruits: Aisle 3
+Pumpkinseed sunfish,   Whiting
+  Seafood: Aisle 13
+Swordfish,   Anchovy
+  Seafood: Aisle 13
+Taro,   Breadfruit
+  Fruits: Aisle 3
+Teff,   Quinoa
+  Herbs and Spices: Aisle 1
+Tilefish,   Norway haddock
+  Seafood: Aisle 13
+Mexican groundcherry,   Groundcherry
+  Vegetables: Aisle 2
+Towel gourd,   Winter squash
+  Gourds: Aisle 7
+Salmonidae (Salmon, Trout),   Rainbow trout
+  Seafood: Aisle 13
+Turkey,   Pheasant
+  Meats: Aisle 14
+Cattle (Beef, Veal),   Milk and milk products
+  Milk Products: Aisle 15
+Walleye,   Pikeperch
+  Seafood: Aisle 13
+Alaska pollock,   Gadus (Common cod)
+  Seafood: Aisle 13
+Wasabi,  Chinese mustard
+ Vegetables: Aisle 2
+Wax gourd,   Horned melon
+  Gourds: Aisle 7
+Whelk,   Snail
+  Seafood: Aisle 13
+Coalfish pollock,   Atlantic pollock
+  Seafood: Aisle 13
+Broad whitefish,   Cisco
+  Seafood: Aisle 13
+Whitefish,   Cisco
+  Seafood: Aisle 13
+Whiting,   Blue whiting
+  Seafood: Aisle 13
+Wild rice,   Wild rice
+  Cereal Products: Aisle 10
+Tea leaf willow,   Alpine sweetvetch
+  Vegetables: Aisle 2
+Winged bean,   Common bean
+  Pulses: Aisle 5
+Yam,   Jicama
+  Vegetables: Aisle 2
+Jicama,   Yam
+  Vegetables: Aisle 2
+Yautia,   Jew's ear
+  Vegetables: Aisle 2
+Yellowfin tuna,   Northern bluefin tuna
+  Seafood: Aisle 13
+Yellowtail amberjack,   Anchovy
+  Seafood: Aisle 13
+Pollock,   Atlantic pollock
+  Seafood: Aisle 13
+Albacore tuna,   Yellowfin tuna
+  Seafood: Aisle 13
+Gadus (Common cod),   Alaska pollock
+  Seafood: Aisle 13
+Atlantic halibut,   Pacific halibut
+  Seafood: Aisle 13
+Pacific halibut,   Atlantic halibut
+  Seafood: Aisle 13
+Pacific salmon,   Rainbow trout
+  Seafood: Aisle 13
+Smelt,   Rainbow smelt
+  Seafood: Aisle 13
+Clupeinae (Herring, Sardine, Sprat),   Grouper
+  Seafood: Aisle 13
+Spiny lobster,   Clawed lobster
+  Seafood: Aisle 13
+Snow crab,   Blue crab
+  Seafood: Aisle 13
+Black-eyed pea,   Cowpea
+  Pulses: Aisle 5
+Deer,   Elk
+  Meats: Aisle 14
+Macadamia nut,   Macadamia nut (M. tetraphylla)
+  Nuts: Aisle 4
+Percoidei (Bass and others),   Perciformes (Perch-like fishes)
+  Seafood: Aisle 13
+Perciformes (Perch-like fishes),   Percoidei (Bass and others)
+  Seafood: Aisle 13
+Arctic ground squirrel,   Squirrel
+  Meats: Aisle 14
+Rabbit,   European rabbit
+  Meats: Aisle 14
+Domestic goat,   Sheep (Mutton, Lamb)
+  Meats: Aisle 14
+Beefalo,   Bison
+  Meats: Aisle 14
+Antelope,   Bison
+  Meats: Aisle 14
+Bivalvia (Clam, Mussel, Oyster),   Scallop
+  Seafood: Aisle 13
+Squid,   Mollusks
+  Seafood: Aisle 13
+Shrimp,   Roe
+  Seafood: Aisle 13
+Crayfish,   Spiny lobster
+  Seafood: Aisle 13
+Flatfish,   Pleuronectidae (Dab, Halibut, Plaice)
+  Seafood: Aisle 13
+Domestic pig (Piglet, Pork),   Wild boar
+  Meats: Aisle 14
+Walrus,   Hippoglossus (Common halibut)
+  Seafood: Aisle 13
+Alaska wild rhubarb,   Alpine sweetvetch
+  Vegetables: Aisle 2
+Oriental wheat,   Common wheat
+  Cereal Products: Aisle 10
+Yardlong bean,   Green bean
+  Pulses: Aisle 5
+Great horned owl,   Greylag goose
+  Meats: Aisle 14
+Quail,   Anatidae (Duck, Goose, Swan)
+  Meats: Aisle 14
+Boysenberry,   Loganberry
+  Fruits: Aisle 3
+Persian lime,  Lime
+ Fruits: Aisle 3
+Feijoa,   Horseradish tree
+  Vegetables: Aisle 2
+Rowal,   Breadfruit
+  Fruits: Aisle 3
+Jew's ear,   Yautia
+  Vegetables: Aisle 2
+Common mushroom,   Enokitake
+  Vegetables: Aisle 2
+Shiitake,   Common mushroom
+  Vegetables: Aisle 2
+Purple laver,   Marine mussel
+  Seafood: Aisle 13
+Wakame,   Common carp
+  Seafood: Aisle 13
+Enokitake,   Common mushroom
+  Vegetables: Aisle 2
+Epazote,   Greenthread tea
+  Teas: Aisle 6
+Oyster mushroom,   Mushrooms
+  Vegetables: Aisle 2
+Cloud ear fungus,   Jew's ear
+  Vegetables: Aisle 2
+Maitake,   Common mushroom
+  Vegetables: Aisle 2
+Ostrich fern,   Ostrich
+  Meats: Aisle 14
+Spot croaker,   Atlantic croaker
+  Seafood: Aisle 13
+Sourdock,   Sorrel
+  Herbs and Spices: Aisle 1
+Tinda,   Wax gourd
+  Gourds: Aisle 7
+Atlantic menhaden,   Atlantic herring
+  Seafood: Aisle 13
+Wheat,   Common wheat
+  Cereal Products: Aisle 10
+Common chokecherry,   Sour cherry
+  Fruits: Aisle 3
+Agave,   Parsnip
+  Vegetables: Aisle 2
+Narrowleaf cattail,   Alpine sweetvetch
+  Vegetables: Aisle 2
+Jellyfish,   Yellow bell pepper
+  Vegetables: Aisle 2
+Anchovy,   European anchovy
+  Seafood: Aisle 13
+Blue whiting,   Whiting
+  Seafood: Aisle 13
+Carp bream,   Norway haddock
+  Seafood: Aisle 13
+Chanterelle,   Mushrooms
+  Vegetables: Aisle 2
+Sturgeon,   Greater sturgeon
+  Seafood: Aisle 13
+Charr,   Lake trout
+  Seafood: Aisle 13
+Cinnamon,  Ceylon cinnamon
+ Herbs and Spices: Aisle 1
+Crab,   Snow crab
+  Seafood: Aisle 13
+Common dab,   Lemon sole
+  Seafood: Aisle 13
+Spiny dogfish,   Shark
+  Seafood: Aisle 13
+Anatidae (Duck, Goose, Swan),   Mallard duck
+  Meats: Aisle 14
+Anguilliformes (Eel),   Freshwater eel
+  Seafood: Aisle 13
+True frog,   True sole
+  Seafood: Aisle 13
+Garfish,   Turbot
+  Seafood: Aisle 13
+Gadiformes (Cod, Hake),   Salmonidae (Salmon, Trout)
+  Seafood: Aisle 13
+Mountain hare,   Irish moss
+  Seafood: Aisle 13
+Lake trout,   Charr
+  Seafood: Aisle 13
+Lemon sole,   Common dab
+  Seafood: Aisle 13
+Clawed lobster,   Spiny lobster
+  Seafood: Aisle 13
+Lumpsucker,   White sucker
+  Seafood: Aisle 13
+Scombridae (Bonito, Mackerel, Tuna),   Yellowfin tuna
+  Seafood: Aisle 13
+Marine mussel,   Blue mussel
+  Seafood: Aisle 13
+Norway haddock,   Pacific rockfish
+  Seafood: Aisle 13
+Norway lobster,   American lobster
+  Seafood: Aisle 13
+Norway pout,   Atlantic cod
+  Seafood: Aisle 13
+Oil palm,   Cooking oil
+  Baking Goods: Aisle 18
+True oyster,   Pacific oyster
+  Seafood: Aisle 13
+Sago palm,   Perciformes (Perch-like fishes)
+  Seafood: Aisle 13
+Persimmon,   Common persimmon
+  Fruits: Aisle 3
+Pikeperch,   Northern pike
+  Seafood: Aisle 13
+Pleuronectidae (Dab, Halibut, Plaice),   Hippoglossus (Common halibut)
+  Seafood: Aisle 13
+Rock ptarmigan,   Greylag goose
+  Meats: Aisle 14
+Pacific ocean perch,   Pacific rockfish
+  Seafood: Aisle 13
+Black salsify,   Common salsify
+  Vegetables: Aisle 2
+True seal,   Spotted seal
+  Seafood: Aisle 13
+Red algae,   Kelp
+  Seafood: Aisle 13
+Kombu,  Loquat
+ Fruits: Aisle 3
+Snail,   Whelk
+  Seafood: Aisle 13
+True sole,   Flatfish
+  Seafood: Aisle 13
+Catfish,   Channel catfish
+  Seafood: Aisle 13
+Thistle,   Cardoon
+  Vegetables: Aisle 2
+Thunnus (Common tuna),   Northern bluefin tuna
+  Seafood: Aisle 13
+Walnut,  Common walnut
+ Nuts: Aisle 4
+Cetacea (Dolphin, Porpoise, Whale),   Bowhead whale
+  Seafood: Aisle 13
+Columbidae (Dove, Pigeon),   Squab
+  Meats: Aisle 14
+Conch,   Snail
+  Seafood: Aisle 13
+Grape wine,   Grape
+  Fruits: Aisle 3
+Berry wine, Savoy cabbage
+Vegetables: Aisle 2
+Other wine, Savoy cabbage
+Vegetables: Aisle 2
+Apple cider,   Apple
+  Fruits: Aisle 3
+Liquor,   Beverages
+  Beverages: Aisle 12
+Cheese,   Milk substitute
+  Baking Goods: Aisle 18
+Milk (Cow),   Milk (Other mammals)
+  Milk Products: Aisle 15
+Eggs,   Egg substitute
+  Baking Goods: Aisle 18
+Yogurt,   Soy yogurt
+  Soy: Aisle 9
+Bean,   Common bean
+  Pulses: Aisle 5
+Vodka,   Cocktail
+  Beverages: Aisle 12
+Whisky,   Beer
+  Beverages: Aisle 12
+Ice cream,   Other frozen dessert
+  Candy: Aisle 17
+Gin,   Cocktail
+  Beverages: Aisle 12
+Honey,   Lemon balm
+  Herbs and Spices: Aisle 1
+Liquorice,   Anise
+  Herbs and Spices: Aisle 1
+Vinegar,   Yogurt
+  Milk Products: Aisle 15
+Rum,   Cocktail
+  Beverages: Aisle 12
+Port wine,   Fortified wine
+  Beverages: Aisle 12
+Vermouth,   Fortified wine
+  Beverages: Aisle 12
+Sherry,   Madeira wine
+  Beverages: Aisle 12
+Madeira wine,   Fortified wine
+  Beverages: Aisle 12
+Toffee,   Apple
+  Fruits: Aisle 3
+Cake,   Marzipan
+  Candy: Aisle 17
+Pizza,   Focaccia
+  Cereal Products: Aisle 10
+Ymer,   Milk substitute
+  Baking Goods: Aisle 18
+Other snack food,   Nachos
+  Ready-Made Dishes: Aisle 20
+Crisp bread,   Rye bread
+  Cereal Products: Aisle 10
+Pastry,   Pie crust
+  Baking Goods: Aisle 18
+DragÌ©e,   Nuts
+  Nuts: Aisle 4
+Chewing gum,   Egg substitute
+  Baking Goods: Aisle 18
+Marzipan,   Cake
+  Candy: Aisle 17
+Salad dressing,   Corn salad
+  Vegetables: Aisle 2
+Sauce,   Soy sauce
+  Soy: Aisle 9
+Salt,   Baking Soda
+  Baking Goods: Aisle 18
+Butter,   Margarine
+  Fats and Oils: Aisle 19
+Butter substitute, Savoy cabbage
+Vegetables: Aisle 2
+Cream,   Butterfat
+  Milk Products: Aisle 15
+Sugar,   Molasses
+  Baking Goods: Aisle 18
+Sausage,   Hot dog
+  Ready-Made Dishes: Aisle 20
+Meatball,   Enchilada
+  Ready-Made Dishes: Aisle 20
+Mustard,  Chinese mustard
+ Vegetables: Aisle 2
+Pate,   Salad
+  Ready-Made Dishes: Aisle 20
+Sugar substitute,   Sugar
+  Baking Goods: Aisle 18
+Meat bouillon, Savoy cabbage
+Vegetables: Aisle 2
+Other meat product, Savoy cabbage
+Vegetables: Aisle 2
+Whey,   Processed cheese
+  Milk Products: Aisle 15
+Casein,   Cheese
+  Milk Products: Aisle 15
+Fruit preserve,   Pectin
+  Baking Goods: Aisle 18
+Baking Soda,   Salt
+  Baking Goods: Aisle 18
+Marshmallow,   Toasted chip
+  Snack Foods: Aisle 21
+Gelatin,   Gelatin dessert
+  Candy: Aisle 17
+Water,   Purified Water
+  Beverages: Aisle 12
+Other fish product,   Fishes
+  Seafood: Aisle 13
+Milk (Human),   Milk substitute
+  Baking Goods: Aisle 18
+Other beverage, Savoy cabbage
+Vegetables: Aisle 2
+Dumpling,   Stew
+  Ready-Made Dishes: Aisle 20
+Soup,   Stew
+  Ready-Made Dishes: Aisle 20
+Other vegetable product, Savoy cabbage
+Vegetables: Aisle 2
+Syrup,   Molasses
+  Baking Goods: Aisle 18
+Tallow,   Akutaq
+  Candy: Aisle 17
+Remoulade,   Sauce
+  Baking Goods: Aisle 18
+Chocolate spread,   Cocoa liquor
+  Cocoa Products: Aisle 11
+Fruit gum,   Fruit salad
+  Fruits: Aisle 3
+Curry powder,  Cumin
+ Herbs and Spices: Aisle 1
+Meringue,   Chocolate mousse
+  Candy: Aisle 17
+Lard,   Dripping
+  Fats and Oils: Aisle 19
+Other animal fat,   Fats and oils
+  Fats and Oils: Aisle 19
+Other cocoa product, Savoy cabbage
+Vegetables: Aisle 2
+Cocoa butter,   Cocoa powder
+  Cocoa Products: Aisle 11
+Cocoa powder,   Cocoa liquor
+  Cocoa Products: Aisle 11
+Cocoa liquor,   Cocoa powder
+  Cocoa Products: Aisle 11
+Chocolate,   Cocoa powder
+  Cocoa Products: Aisle 11
+Dried milk,   Milk substitute
+  Baking Goods: Aisle 18
+Milk (Other mammals),   Milk (Other mammals)
+  Milk Products: Aisle 15
+Kefir,   Milk substitute
+  Baking Goods: Aisle 18
+Buttermilk,   Other fermented milk
+  Milk Products: Aisle 15
+Other fermented milk,   Milk (Cow)
+  Milk Products: Aisle 15
+Soy sauce,  Soy bean
+ Soy: Aisle 9
+Miso,   Natto
+  Soy: Aisle 9
+Tofu,   Soy milk
+  Soy: Aisle 9
+Zwieback,   Crisp bread
+  Cereal Products: Aisle 10
+Roe,   Shrimp
+  Seafood: Aisle 13
+Cichlidae (Tilapia),   Fishes
+  Seafood: Aisle 13
+Icing,   Butter
+  Milk Products: Aisle 15
+Snack bar, Savoy cabbage
+Vegetables: Aisle 2
+Green turtle,   Atlantic cod
+  Seafood: Aisle 13
+Energy drink,   Nutritional drink
+  Beverages: Aisle 12
+Burrito,   Taco
+  Ready-Made Dishes: Aisle 20
+Hamburger,   Veggie burger
+  Ready-Made Dishes: Aisle 20
+Baked beans,   Green bean
+  Pulses: Aisle 5
+Chili,   Enchilada
+  Ready-Made Dishes: Aisle 20
+Taco,   Burrito
+  Ready-Made Dishes: Aisle 20
+Tortilla,   Tostada
+  Ready-Made Dishes: Aisle 20
+Nachos,   Doritos
+  Snack Foods: Aisle 21
+Processed cheese,   Whey
+  Milk Products: Aisle 15
+Salad,  Lettuce
+ Vegetables: Aisle 2
+Cream substitute, Savoy cabbage
+Vegetables: Aisle 2
+Dulce de leche,   Evaporated milk
+  Milk Products: Aisle 15
+Topping, Savoy cabbage
+Vegetables: Aisle 2
+Sweet custard,   Other frozen dessert
+  Candy: Aisle 17
+Egg roll,   Eggs
+  Eggs: Aisle 16
+Heart of palm,   Oil palm
+  Herbs and Spices: Aisle 1
+Popcorn,   Toasted chip
+  Snack Foods: Aisle 21
+Doritos,   Toasted chip
+  Snack Foods: Aisle 21
+Hibiscus tea,  Tea
+ Teas: Aisle 6
+Stew,   Soup
+  Ready-Made Dishes: Aisle 20
+Gelatin dessert,   Gelatin
+  Baking Goods: Aisle 18
+Junket,   Evaporated milk
+  Milk Products: Aisle 15
+Falafel,   Pita bread
+  Cereal Products: Aisle 10
+Frybread,   Taco
+  Ready-Made Dishes: Aisle 20
+Other frozen dessert,   Frozen yogurt
+  Candy: Aisle 17
+Lasagna,   Ravioli
+  Ready-Made Dishes: Aisle 20
+Morchella (Morel),   Grouper
+  Seafood: Aisle 13
+Pancake,   Waffle
+  Ready-Made Dishes: Aisle 20
+Pectin,   Fruit preserve
+  Fruits: Aisle 3
+Pudding,   Tapioca pearl
+  Baking Goods: Aisle 18
+Waffle,   Ice cream cone
+  Baking Goods: Aisle 18
+Soy milk,   Milk substitute
+  Baking Goods: Aisle 18
+Meatloaf,   Sausage
+  Ready-Made Dishes: Aisle 20
+Sake,   Rice cake
+  Ready-Made Dishes: Aisle 20
+Cocktail,   Vodka
+  Beverages: Aisle 12
+Couscous,   Pasta
+  Cereal Products: Aisle 10
+Bulgur,   Common wheat
+  Cereal Products: Aisle 10
+Coffee substitute,   Chicory roots
+  Vegetables: Aisle 2
+Coffee mocha,  Coffee
+ Coffee products: Aisle 8
+Chimichanga,   Burrito
+  Ready-Made Dishes: Aisle 20
+Semolina,   Common wheat
+  Cereal Products: Aisle 10
+Tapioca pearl,   Cassava
+  Vegetables: Aisle 2
+Tostada,   Raisin bread
+  Cereal Products: Aisle 10
+Quesadilla,   Enchilada
+  Ready-Made Dishes: Aisle 20
+Baked potato,   Potato bread
+  Cereal Products: Aisle 10
+Hot dog,   Relish
+  Baking Goods: Aisle 18
+Spread,   Raisin bread
+  Cereal Products: Aisle 10
+Enchilada,   Taco
+  Ready-Made Dishes: Aisle 20
+Egg substitute,   Eggs
+  Eggs: Aisle 16
+Nutritional drink,   Energy drink
+  Beverages: Aisle 12
+Other sandwich,   Breakfast sandwich
+  Ready-Made Dishes: Aisle 20
+Ketchup,   French toast
+  Cereal Products: Aisle 10
+Breakfast sandwich,   Other sandwich
+  Ready-Made Dishes: Aisle 20
+Adobo,   Salt
+  Baking Goods: Aisle 18
+Macaroni and cheese,   Processed cheese
+  Milk Products: Aisle 15
+Butterfat,   Butter
+  Milk Products: Aisle 15
+Horned melon,   Wax gourd
+  Gourds: Aisle 7
+Hushpuppy,   Cornbread
+  Cereal Products: Aisle 10
+Fruit juice,   Vegetable juice
+  Beverages: Aisle 12
+Relish,   Hot dog
+  Ready-Made Dishes: Aisle 20
+Other fruit product, Savoy cabbage
+Vegetables: Aisle 2
+Fruit salad,   French toast
+  Cereal Products: Aisle 10
+Soy yogurt,   Yogurt
+  Milk Products: Aisle 15
+Vegetarian food,   Milk and milk products
+  Milk Products: Aisle 15
+Veggie burger,   Hamburger
+  Ready-Made Dishes: Aisle 20
+Cold cut,   Hamburger
+  Ready-Made Dishes: Aisle 20
+Mixed nuts,   Nuts
+  Nuts: Aisle 4
+Canola,   Cooking oil
+  Baking Goods: Aisle 18
+Babassu palm,   Oil palm
+  Herbs and Spices: Aisle 1
+CupuaÌ_u,   Cocoa bean
+  Cocoa Products: Aisle 11
+Shea tree,   Butter
+  Milk Products: Aisle 15
+Ucuhuba,   Cooking oil
+  Baking Goods: Aisle 18
+Phyllo dough,   Flour
+  Cereal Products: Aisle 10
+Cooking oil,   Ucuhuba
+  Herbs and Spices: Aisle 1
+Pie crust,   Pie
+  Candy: Aisle 17
+Pie filling, Savoy cabbage
+Vegetables: Aisle 2
+Pie,   Pie crust
+  Baking Goods: Aisle 18
+Shortening,   Fats and oils
+  Fats and Oils: Aisle 19
+Soy cream, Savoy cabbage
+Vegetables: Aisle 2
+Ice cream cone,   Other frozen dessert
+  Candy: Aisle 17
+Molasses,   Sugar
+  Baking Goods: Aisle 18
+Cracker,   Bagel
+  Cereal Products: Aisle 10
+Nance,   Beverages
+  Beverages: Aisle 12
+Naranjilla,   Persian lime
+  Fruits: Aisle 3
+Natto,   Miso
+  Soy: Aisle 9
+Ravioli,   Pasta
+  Cereal Products: Aisle 10
+Scrapple,   Meatloaf
+  Ready-Made Dishes: Aisle 20
+Other pasta dish, Savoy cabbage
+Vegetables: Aisle 2
+Succotash,   Pot pie
+  Ready-Made Dishes: Aisle 20
+Tamale,   Enchilada
+  Ready-Made Dishes: Aisle 20
+Rice cake,   Rice
+  Cereal Products: Aisle 10
+Tree fern,   Sago palm
+  Herbs and Spices: Aisle 1
+Evaporated milk,   Condensed milk
+  Milk Products: Aisle 15
+Flour,   Other bread
+  Cereal Products: Aisle 10
+Akutaq,   Tallow
+  Fats and Oils: Aisle 19
+Dough,   Wheat
+  Cereal Products: Aisle 10
+Pita bread,   Falafel
+  Ready-Made Dishes: Aisle 20
+Focaccia,   Pizza
+  Ready-Made Dishes: Aisle 20
+Bagel,   Other bread
+  Cereal Products: Aisle 10
+Other bread product, Savoy cabbage
+Vegetables: Aisle 2
+Piki bread,   Toasted chip
+  Snack Foods: Aisle 21
+French toast,   Raisin bread
+  Cereal Products: Aisle 10
+Wheat bread,   Common wheat
+  Cereal Products: Aisle 10
+Rye bread,   Other bread
+  Cereal Products: Aisle 10
+Oat bread,   Raisin bread
+  Cereal Products: Aisle 10
+Potato bread,   Baked potato
+  Ready-Made Dishes: Aisle 20
+Cornbread,   Hushpuppy
+  Ready-Made Dishes: Aisle 20
+Corn grits,   Toasted chip
+  Snack Foods: Aisle 21
+Multigrain bread, Savoy cabbage
+Vegetables: Aisle 2
+Rice bread,   Other bread
+  Cereal Products: Aisle 10
+Pan dulce,   Mixed nuts
+  Nuts: Aisle 4
+Raisin bread,   Rye bread
+  Cereal Products: Aisle 10
+Wonton wrapper, Savoy cabbage
+Vegetables: Aisle 2
+Trail mix,   Mixed nuts
+  Nuts: Aisle 4
+Greenthread tea,  Tea
+ Teas: Aisle 6
+Fruit-flavor drink, Savoy cabbage
+Vegetables: Aisle 2
+Vegetable juice,   Fruit juice
+  Beverages: Aisle 12
+Horchata,   Sesame
+  Herbs and Spices: Aisle 1
+Sprite,   Beverages
+  Beverages: Aisle 12
+Frozen yogurt,   Yogurt
+  Milk Products: Aisle 15
+Milkshake,   Milk substitute
+  Baking Goods: Aisle 18
+Chocolate mousse,   Meringue
+  Candy: Aisle 17
+Dripping,   Tallow
+  Fats and Oils: Aisle 19
+Pupusa,   Burrito
+  Ready-Made Dishes: Aisle 20
+Empanada,   Stuffing
+  Baking Goods: Aisle 18
+Arepa,   Pupusa
+  Ready-Made Dishes: Aisle 20
+Ascidians,   Tunicate
+  Seafood: Aisle 13
+Gefilte fish,   Pikeperch
+  Seafood: Aisle 13
+Yellow pond-lily,  Asparagus
+ Vegetables: Aisle 2
+Fish burger, Savoy cabbage
+Vegetables: Aisle 2
+Other dish, Savoy cabbage
+Vegetables: Aisle 2
+Pot pie,   Pie crust
+  Baking Goods: Aisle 18
+Stuffing,   Empanada
+  Ready-Made Dishes: Aisle 20
+Edible shell, Savoy cabbage
+Vegetables: Aisle 2
+Fudge,   Butter
+  Milk Products: Aisle 15
+Candy bar,   Potato chip
+  Snack Foods: Aisle 21
+Condensed milk,   Evaporated milk
+  Milk Products: Aisle 15
+Margarine,   Fats and oils
+  Fats and Oils: Aisle 19
+Margarine-like spread, Savoy cabbage
+Vegetables: Aisle 2
+Hummus,   Falafel
+  Ready-Made Dishes: Aisle 20
+Potato puffs, Savoy cabbage
+Vegetables: Aisle 2
+Potato gratin,   Pie crust
+  Baking Goods: Aisle 18
+Milk substitute,   Evaporated milk
+  Milk Products: Aisle 15
+Pepper (C. pubescens),   Pepper (C. baccatum)
+  Vegetables: Aisle 2
+Soft-necked garlic, Garlic
+Herbs and Spices: Aisle 1
+Cabbage,   White cabbage
+  Vegetables: Aisle 2
+Chinese bayberry,   Bayberry
+  Fruits: Aisle 3
+Mushrooms,   Common mushroom
+  Vegetables: Aisle 2
+Alcoholic beverages,   Beverages
+  Beverages: Aisle 12
+Onion-family vegetables, Savoy cabbage
+Vegetables: Aisle 2
+Pomes,  Quince
+ Fruits: Aisle 3
+Brassicas,  Common cabbage
+ Vegetables: Aisle 2
+Cereals and cereal products, Savoy cabbage
+Vegetables: Aisle 2
+Citrus,  Sweet orange
+ Fruits: Aisle 3
+Cocoa and cocoa products, Savoy cabbage
+Vegetables: Aisle 2
+Coffee and coffee products, Savoy cabbage
+Vegetables: Aisle 2
+Crustaceans,   Crab
+  Seafood: Aisle 13
+Milk and milk products,   Milk (Cow)
+  Milk Products: Aisle 15
+Fats and oils,   Other animal fat
+  Fats and Oils: Aisle 19
+Fishes,   Other fish product
+  Seafood: Aisle 13
+Herbs and Spices, Savoy cabbage
+Vegetables: Aisle 2
+Pulses,   Green bean
+  Pulses: Aisle 5
+Animal foods, Savoy cabbage
+Vegetables: Aisle 2
+Mollusks,   Snail
+  Seafood: Aisle 13
+Nuts,   Mixed nuts
+  Nuts: Aisle 4
+Beverages,   Alcoholic beverages
+  Beverages: Aisle 12
+Fruits,   Mulberry
+  Fruits: Aisle 3
+Green vegetables,   Kale
+  Vegetables: Aisle 2
+Root vegetables,   Green vegetables
+  Vegetables: Aisle 2
+Sunburst squash (pattypan squash),   Winter squash
+  Gourds: Aisle 7
+Green zucchini,   Yellow zucchini
+  Gourds: Aisle 7
+Yellow zucchini,   Green zucchini
+  Gourds: Aisle 7
+Green bell pepper,   Red bell pepper
+  Vegetables: Aisle 2
+Yellow bell pepper,   Green bell pepper
+  Vegetables: Aisle 2
+Orange bell pepper,   Green bell pepper
+  Vegetables: Aisle 2
+Red bell pepper,   Green bell pepper
+  Vegetables: Aisle 2
+Italian sweet red pepper,  Pepper (C. annuum)
+ Vegetables: Aisle 2
+Yellow wax bean,   Green bean
+  Pulses: Aisle 5
+Green bean,   Common bean
+  Pulses: Aisle 5
+Saskatoon berry,   Red huckleberry
+  Fruits: Aisle 3
+Nanking cherry,   Sour cherry
+  Fruits: Aisle 3
+Japanese pumpkin,   Sunburst squash (pattypan squash)
+  Gourds: Aisle 7
+White cabbage,   Cabbage
+  Vegetables: Aisle 2
+Romaine lettuce,  Lettuce
+ Vegetables: Aisle 2
+Cow milk, pasteurized, vitamin A + D added, 0% fat,   Milk (Other mammals)
+  Milk Products: Aisle 15
+Cow milk, pasteurized, vitamin A + D added, 1% fat,   Milk (Other mammals)
+  Milk Products: Aisle 15
+Cow milk, pasteurized, vitamin A + D added, 2% fat,   Milk (Other mammals)
+  Milk Products: Aisle 15
+Cow milk, pasteurized, vitamin D added, 3.25% fat,   Milk (Other mammals)
+  Milk Products: Aisle 15
